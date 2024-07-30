@@ -1,0 +1,555 @@
+/* screen - frame-1 */
+
+.frame-1 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 1456px;
+  width: 1920px;
+}
+
+.frame-1 .overlap-group9 {
+  align-items: center;
+  background-color: #7c7777;
+  display: flex;
+  gap: 997px;
+  height: 55px;
+  justify-content: flex-end;
+  min-width: 1920px;
+  padding: 9px 297px;
+}
+
+.frame-1 .securespend-prepaid-container {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  min-height: 35px;
+  width: 261px;
+}
+
+.frame-1 .secure-spend-prepaid-visa-gift-card {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xs);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 15px;
+  width: 220px;
+}
+
+.frame-1 .secure-spend-prepaid {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xs);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 15px;
+}
+
+.frame-1 .sign-in {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 2.0px;
+  min-height: 21px;
+  width: 55px;
+}
+
+.frame-1 .overlap-group8 {
+  align-items: center;
+  background-color: #f7f8f8;
+  display: flex;
+  height: 65px;
+  justify-content: flex-end;
+  margin-top: 2px;
+  min-width: 1920px;
+  padding: 0 297px;
+}
+
+.frame-1 .secure-spend_-logo_-main-1 {
+  height: 31px;
+  object-fit: cover;
+  width: 162px;
+}
+
+.frame-1 .where-to-buy {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 6.0px;
+  margin-left: 941px;
+  min-height: 15px;
+  min-width: 87px;
+  white-space: nowrap;
+}
+
+.frame-1 .about {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 6.0px;
+  margin-left: 28px;
+  min-height: 15px;
+  min-width: 38px;
+  white-space: nowrap;
+}
+
+.frame-1 .help {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 6.0px;
+  margin-left: 28px;
+  min-height: 15px;
+  min-width: 29px;
+  white-space: nowrap;
+}
+
+.frame-1 .overlap-group10 {
+  height: 571px;
+  margin-top: 2px;
+  position: relative;
+  width: 1920px;
+}
+
+.frame-1 .rectangle-3 {
+  background-color: #023d4e;
+  height: 525px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.frame-1 .rectangle-4 {
+  background-color: var(--white);
+  height: 368px;
+  left: 307px;
+  position: absolute;
+  top: 35px;
+  width: 371px;
+}
+
+.frame-1 .expiration-date {
+  left: 325px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 222px;
+  white-space: nowrap;
+}
+
+.frame-1 .rectangle-5 {
+  background-color: #12586c;
+  height: 7px;
+  left: 307px;
+  position: absolute;
+  top: 27px;
+  width: 371px;
+}
+
+.frame-1 .manage-your-secure-spend-card {
+  color: #10434a;
+  font-family: var(--font-family-arimo);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  left: 322px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 52px;
+  white-space: nowrap;
+}
+
+.frame-1 .check-your-balance-a {
+  color: var(--fuscous-gray);
+  font-family: var(--font-family-arimo);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  left: 322px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 84px;
+}
+
+.frame-1 .overlap-group {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--fuscous-gray-2);
+  display: flex;
+  height: 36px;
+  left: 558px;
+  min-width: 102px;
+  padding: 9px 12px;
+  position: absolute;
+  top: 249px;
+}
+
+.frame-1 .cvv-input {
+  background-color: transparent;
+  border: 0;
+  height: 17px;
+  letter-spacing: 0;
+  line-height: normal;
+  padding: 0;
+  white-space: nowrap;
+  width: 31px;
+}
+
+.frame-1 .cvv-input::placeholder {
+  color: #00000067;
+}
+
+.frame-1 .overlap-group1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--fuscous-gray-2);
+  display: flex;
+  height: 36px;
+  left: 440px;
+  min-width: 93px;
+  padding: 9px 14px;
+  position: absolute;
+  top: 249px;
+}
+
+.frame-1 .yy-input {
+  background-color: transparent;
+  border: 0;
+  height: 17px;
+  letter-spacing: 0;
+  line-height: normal;
+  padding: 0;
+  white-space: nowrap;
+  width: 21px;
+}
+
+.frame-1 .yy-input::placeholder {
+  color: #00000067;
+}
+
+.frame-1 .overlap-group2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--fuscous-gray-2);
+  display: flex;
+  height: 36px;
+  left: 322px;
+  min-width: 94px;
+  padding: 9px 14px;
+  position: absolute;
+  top: 249px;
+}
+
+.frame-1 .input-field {
+  background-color: transparent;
+  border: 0;
+  height: 17px;
+  letter-spacing: 0;
+  line-height: normal;
+  padding: 0;
+  white-space: nowrap;
+  width: 25px;
+}
+
+.frame-1 .input-field::placeholder {
+  color: #00000067;
+}
+
+.frame-1 .overlap-group3 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--fuscous-gray-2);
+  display: flex;
+  height: 40px;
+  left: 322px;
+  min-width: 343px;
+  padding: 11px 14px;
+  position: absolute;
+  top: 157px;
+}
+
+.frame-1 .input-field-1 {
+  background-color: transparent;
+  border: 0;
+  height: 17px;
+  letter-spacing: 0;
+  line-height: normal;
+  padding: 0;
+  white-space: nowrap;
+  width: 300px;
+}
+
+.frame-1 .input-field-1::placeholder {
+  color: #00000067;
+}
+
+.frame-1 .submit-button {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 47px;
+  left: 323px;
+  min-width: 339px;
+  position: absolute;
+  top: 315px;
+}
+
+.frame-1 .overlap-group4 {
+  align-items: center;
+  background-color: #034b60;
+  display: flex;
+  height: 47px;
+  justify-content: flex-end;
+  min-width: 337px;
+  padding: 0 140px;
+}
+
+.frame-1 .sign-in-1 {
+  color: var(--white);
+  font-family: var(--font-family-arimo);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 17px;
+  min-width: 51px;
+  white-space: nowrap;
+}
+
+.frame-1 .rectangle-12 {
+  background-color: var(--mosque);
+  height: 55px;
+  left: 0;
+  position: absolute;
+  top: 516px;
+  width: 1920px;
+}
+
+.frame-1 .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  height: 320px;
+  margin-right: 56.34px;
+  margin-top: 30px;
+  min-width: 1008px;
+}
+
+.frame-1 .overlap-group11 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  min-height: 320px;
+  width: 297px;
+}
+
+.frame-1 .rectangle {
+  background-color: var(--mosque);
+  height: 15px;
+  margin-left: 0.34px;
+  width: 297px;
+}
+
+.frame-1 .overlap-group12 {
+  height: 150px;
+  margin-right: 0.66px;
+  position: relative;
+  width: 128px;
+}
+
+.frame-1 .secure-spend_icon_-shop-online-1 {
+  height: 128px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 128px;
+}
+
+.frame-1 .title {
+  left: 5px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 122px;
+  white-space: nowrap;
+}
+
+.frame-1 .secure-spend-is-a-sim {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 0.34px;
+  margin-top: 16px;
+  min-height: 51px;
+  min-width: 241px;
+  text-align: center;
+}
+
+.frame-1 .overlap-group6 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  margin-left: 56px;
+  min-height: 320px;
+  width: 297px;
+}
+
+.frame-1 .info-container {
+  height: 150px;
+  margin-left: 0.34px;
+  margin-top: 14px;
+  position: relative;
+  width: 179px;
+}
+
+.frame-1 .no-personal-info-required {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 94px;
+}
+
+.frame-1 .secure-spend_icon_-no-pers-info-1 {
+  height: 100px;
+  left: 40px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 100px;
+}
+
+.frame-1 .no-need-to-go-throug {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 1.34px;
+  margin-top: 16px;
+  min-height: 17px;
+  min-width: 288px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.frame-1 .overlap-group7 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  margin-left: 61px;
+  min-height: 320px;
+  width: 297px;
+}
+
+.frame-1 .nationwide-container {
+  height: 122px;
+  margin-left: 0.34px;
+  margin-top: 14px;
+  position: relative;
+  width: 169px;
+}
+
+.frame-1 .use-nationwide {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 94px;
+  white-space: nowrap;
+}
+
+.frame-1 .secure-spend_icon_-nationwide-1 {
+  height: 100px;
+  left: 35px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 100px;
+}
+
+.frame-1 .can-be-used-wherever {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 0.34px;
+  margin-top: 22px;
+  min-height: 51px;
+  min-width: 273px;
+  text-align: center;
+}
+
+.frame-1 .overlap-group5 {
+  align-items: flex-start;
+  background-color: #7c7777;
+  display: flex;
+  flex-direction: column;
+  margin-top: 31px;
+  min-height: 380px;
+  padding: 49px 282px;
+  width: 1920px;
+}
+
+.frame-1 .secure-spend_-logo_-footer-1 {
+  height: 27px;
+  margin-left: 8px;
+  object-fit: cover;
+  width: 145px;
+}
+
+.frame-1 .copyright-2024-in-c {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 8px;
+  margin-top: 15px;
+  min-height: 17px;
+  min-width: 310px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.frame-1 .terms-and-conditions {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 8px;
+  margin-top: 16px;
+  min-height: 17px;
+  min-width: 718px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.frame-1 .span1 {
+  text-decoration: underline;
+}
+
+.frame-1 .secure-spend-prepaid-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 19px;
+  min-height: 68px;
+  min-width: 1268px;
+  text-align: center;
+}
+
+.frame-1 .colorado-maryland {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 4px;
+  margin-top: 30px;
+  min-height: 17px;
+  min-width: 865px;
+  text-align: center;
+  white-space: nowrap;
+}

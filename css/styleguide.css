@@ -1,0 +1,57 @@
+:root { 
+  --black: #000000;
+  --black-2: #000000ab;
+  --fuscous-gray: #4f4e4e;
+  --fuscous-gray-2: #4f4e4e80;
+  --mosque: #006371;
+  --white: #ffffff;
+ 
+  --font-size-l: 16px;
+  --font-size-m: 15px;
+  --font-size-s: 13px;
+  --font-size-xl: 20px;
+  --font-size-xs: 12px;
+  --font-size-xxl: 24px;
+ 
+  --font-family-arimo: "Arimo", Helvetica;
+  --font-family-inter: "Inter", Helvetica;
+}
+.arimo-normal-white-15px {
+  color: var(--white);
+  font-family: var(--font-family-arimo);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.arimo-normal-fuscous-gray-15px {
+  color: var(--fuscous-gray);
+  font-family: var(--font-family-arimo);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.arimo-normal-black-15px {
+  color: var(--black-2);
+  font-family: var(--font-family-arimo);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.arimo-bold-mosque-13px {
+  color: var(--mosque);
+  font-family: var(--font-family-arimo);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.arimo-normal-mosque-24px {
+  color: var(--mosque);
+  font-family: var(--font-family-arimo);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
